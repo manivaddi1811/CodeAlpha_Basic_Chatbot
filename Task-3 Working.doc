@@ -1,0 +1,26 @@
+Step-1 – Welcome Screen
+WELCOME TO PYTHON CHATBOT
+
+Type 'bye' to exit.
+
+Step-2 – Conversation
+You : hello
+
+Bot : Hello! Nice to meet you.
+
+You : what is your name
+
+Bot : My name is Python Chatbot.
+Step-3 – Date & Time
+You : time
+
+Bot : Current Time is 10:45:20
+
+You : date
+
+Bot : Today's Date is 01-08-2026
+Step-4 – Exit
+You : bye
+
+Bot : Thank you for chatting.
+Goodbye!
